@@ -54,10 +54,6 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
 
----
-
-## 🚀 Featured Projects
----
 
 ## 🏆 Achievements
 

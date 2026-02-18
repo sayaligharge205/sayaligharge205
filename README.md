@@ -1,14 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sayali%20Gharge&fontSize=40&fontColor=ffffff" width="100%"/>
 
-<table>
-<tr>
-<td width="35%">
-
-<img src="YOUR_IMAGE_LINK" width="100%" style="border-radius:15px;" />
-
-</td>
-<td width="65%">"100%"/>
-
 # Hey 👋 I'm Sayali Gharge
 
 🎓 B.Tech Computer Engineering Student (CGPA: 8.7)  

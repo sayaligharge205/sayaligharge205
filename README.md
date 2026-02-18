@@ -1,5 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sayali%20Gharge&fontSize=40&fontColor=ffffff" width="100%"/>
 
+<table>
+<tr>
+<td width="35%">
+
+<img src="YOUR_IMAGE_LINK" width="100%" style="border-radius:15px;" />
+
+</td>
+<td width="65%">"100%"/>
+
 # Hey 👋 I'm Sayali Gharge
 
 🎓 B.Tech Computer Engineering Student (CGPA: 8.7)  
@@ -48,23 +57,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 🔹 HireMate – AI Mock Interview Platform
-- Resume Parsing using NLP
-- Dynamic Question Generation
-- TensorFlow-based Evaluation Model
-- REST APIs with Node & Express
-- React Dashboard + MySQL Analytics
-
-### 🔹 HostelHub – Hostel Management System
-- Reduced manual work by 80%
-- QR-based Entry/Exit System
-- Complaint Management Module
-- Secure Authentication using REST APIs
-- Full Stack: HTML, CSS, JS, Node, MySQL
-
-🔗 Repo: https://github.com/sayaligharge205/HostelHub
-
 ---
 
 ## 🏆 Achievements
